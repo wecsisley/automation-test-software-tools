@@ -1,0 +1,7 @@
+# Compiled class file
+*.class
+
+# Folders
+target/*
+.vscode/*
+src/resource/*
